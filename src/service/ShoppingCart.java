@@ -43,4 +43,4 @@ public class ShoppingCart {
         return total;
     }
 
-    }
+    } //class ShoppingCart

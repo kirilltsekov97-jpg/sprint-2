@@ -23,4 +23,4 @@ public abstract class Food {
         this.price = price;
         this.isVegetarian = isVegetarian;
     }
-}
+} //class Food

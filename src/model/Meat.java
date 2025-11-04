@@ -6,4 +6,4 @@ public class Meat extends Food {
      }
 
 
-}
+} //class Meat
